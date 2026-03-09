@@ -27,7 +27,7 @@ public class MinimumElement {
             arr[i]= sc.nextInt();
         }
         int result = findMin(arr);
-        System.out.println("maximum number is : " + result);
+        System.out.println("minimum number is : " + result);
         sc.close();
     }
 }
