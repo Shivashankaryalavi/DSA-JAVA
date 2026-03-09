@@ -18,7 +18,7 @@ public class EvenoddCount {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enteer array size: ");
+        System.out.println("Enter array size: ");
         int n = sc.nextInt();
         int arr[] = new int[n];
         System.out.println("Enter array elements  : ");
