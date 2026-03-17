@@ -9,7 +9,7 @@ public class MoveZerosToEnd {
         int nz =0;
         int z =0;
         while(nz<size){
-            if(arr[nz]!=1){
+            if(arr[nz]!=0){
                 int temp = arr[nz];
                 arr[nz]=arr[z];
                 arr[z]=temp;
