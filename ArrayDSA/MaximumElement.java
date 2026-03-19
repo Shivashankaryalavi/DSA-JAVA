@@ -1,4 +1,4 @@
-package ArrayDSA;
+
 import java.util.Scanner;
 public class MaximumElement {
     public static int maxElement(int[] arr){

@@ -1,4 +1,4 @@
-package ArrayDSA;
+
 import java.util.Scanner;
 public class MoveZerosToEnd {
     public static int[] moveZerosToEnd(int[] arr){
