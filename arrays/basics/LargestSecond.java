@@ -8,7 +8,7 @@ public class LargestSecond {
                 secondLargest = largest;
                 largest = num;
             }
-            else if(num > secondLargest && num!= largest){
+            else if(num > secondLargest && num < largest){
                 secondLargest=num;
             }
         }
